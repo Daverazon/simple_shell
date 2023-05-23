@@ -283,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* 
-* 
+* Onwugbenu Kamsiriochi David <kamsidavid2@gmail.com>
+* Darlington Gavi <darlingtongavi@hotmail.com>
 
 ## License :lock:
 
