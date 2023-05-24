@@ -62,7 +62,7 @@ The current working directory as set by the **cd** command.
 
 ```
 $ echo "echo $PWD" | ./shellby
-/home/vagrant/holberton/simple_shell
+/home/vagrant/alx/simple_shell
 ```
 
 #### OLDPWD
@@ -70,7 +70,7 @@ The previous working directory as set by the **cd** command.
 
 ```
 $ echo "echo $OLDPWD" | ./shellby
-/home/vagrant/holberton/printf
+/home/vagrant/alx/printf
 ```
 
 #### PATH
@@ -118,7 +118,7 @@ $
 Example:
 ```
 $ echo "echo $PWD" | ./shellby
-/home/vagrant/holberton/simple_shell
+/home/vagrant/alx/simple_shell
 ```
 
 #### $?
@@ -201,13 +201,13 @@ Example:
 ```
 $ ./shellby
 $ pwd
-/home/vagrant/holberton/simple_shell
+/home/vagrant/alx/simple_shell
 $ cd ../
 $ pwd
-/home/vagrant/holberton
+/home/vagrant/alx
 $ cd -
 $ pwd
-/home/vagrant/holberton/simple_shell
+/home/vagrant/alx/simple_shell
 ```
 
 #### alias
@@ -294,8 +294,3 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 **Shellby** emulates basic functionality of the **sh** shell. This README borrows form the Linux man pages [sh(1)](https://linux.die.net/man/1/sh) and [dash(1)](https://linux.die.net/man/1/dash).
 
-This project was written as part of the curriculum for Holberton School. Holberton School is a campus-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.holbertonschool.com/).
-
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton School logo">
-</p>
